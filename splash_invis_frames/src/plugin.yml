@@ -1,0 +1,5 @@
+name: splash_invis_frames
+version: 1.0
+author: SmytheSoft
+main: com.smythesoft.splash_invis_frames.SplashInvisFrames
+api-version: 1.18
